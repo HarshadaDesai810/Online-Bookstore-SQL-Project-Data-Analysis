@@ -55,5 +55,6 @@ Thanks to **Satish Dhawale** and the **Skillcourse** team for providing this gui
 ## 📬 Let’s Connect
 If you're learning SQL or working on similar projects, feel free to connect and collaborate!
 
-LinkedIn: https://www.linkedin.com/in/gaurav-awatade-a36a1b17b/
-GitHub: https://github.com/GauravAwatade/
+LinkedIn:www.linkedin.com/in/harshada-desai-789624298
+GitHub: https://github.com/HarshadaDesai810
+
