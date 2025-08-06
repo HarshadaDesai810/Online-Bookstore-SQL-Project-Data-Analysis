@@ -1,14 +1,14 @@
-# 📚 Online Bookstore SQL Project – Skillcourse by Satish Dhawale
+# Online Bookstore SQL Project – Skillcourse by Satish Dhawale
 
 This project is a part of the SQL Learning Series provided by Satish Dhawale([https://www.youtube.com/@SatishDhawale](https://www.youtube.com/watch?v=sxgAb6FGTBE&t=5544s)) through Skillcourse on YouTube. It helped me apply real-world SQL concepts using a structured dataset of an online bookstore.
 
 ---
 
-## 📦 Project Overview
+## Project Overview
 
 In this project, I analyzed an online bookstore's database containing information about books, customers, and orders. I used PostgreSQL to write SQL queries that answered both basic and advanced business questions.
 
-### ✅ Key Skills Used:
+### Key Skills Used:
 - Database design and schema creation
 - Importing CSV files using `COPY`
 - SQL joins and filtering
@@ -18,7 +18,7 @@ In this project, I analyzed an online bookstore's database containing informatio
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File Name                          | Description                                |
 |-----------------------------------|--------------------------------------------|
@@ -31,7 +31,7 @@ In this project, I analyzed an online bookstore's database containing informatio
 
 ---
 
-## 🔍 Sample Business Questions Answered
+## Sample Business Questions Answered
 - Which genres sold the most books?
 - What is the average price of books in the “Fantasy” genre?
 - Who is the top customer by total spend?
@@ -40,19 +40,19 @@ In this project, I analyzed an online bookstore's database containing informatio
 
 ---
 
-## 📊 Tools Used
+## Tools Used
 - PostgreSQL
 - pgAdmin
 - SQL
 
 ---
 
-## 🙏 Special Thanks
+## Special Thanks
 Thanks to **Satish Dhawale** and the **Skillcourse** team for providing this guided learning experience.
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 If you're learning SQL or working on similar projects, feel free to connect and collaborate!
 
 LinkedIn:www.linkedin.com/in/harshada-desai-789624298
